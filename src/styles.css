@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url(https://bootswatch.com/4/superhero/bootstrap.min.css);
+
+/*  Heading - IMDB */
+.app-clickable {
+    cursor: pointer;
+}
